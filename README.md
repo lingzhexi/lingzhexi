@@ -14,7 +14,7 @@
 
 - 🌱学习中：![ElaticSearch](https://img.shields.io/badge/-ElasticSearch-c7b198?style=plastic&logo=elasticSearch) ![RocketMQ](https://img.shields.io/badge/-RocketMQ-black?style=plastic&logo=rocket) ![Kafka](https://img.shields.io/badge/-Kafka-white?style=plastic&logo=kafka)
 
-# 我的代码总结
+# 代码树
 
   [![Stomlin's github stats](https://github-readme-stats.vercel.app/api?username=lingzhexi&theme=dark&show_icons=true)](https://github.com/lingzhexi)
 
